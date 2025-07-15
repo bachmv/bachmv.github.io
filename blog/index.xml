@@ -6,7 +6,14 @@
     <description>Recent content in Blogs on Mai Van Bach</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Mon, 14 Jul 2025 11:33:15 +0700</lastBuildDate>
     <atom:link href="https://bachmv.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://bachmv.github.io/blog/hello-world/</link>
+      <pubDate>Mon, 14 Jul 2025 11:33:15 +0700</pubDate>
+      <guid>https://bachmv.github.io/blog/hello-world/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>
